@@ -4,7 +4,7 @@ kd 木みたいに変形して配置したり、オブジェクト自体を分�
 
 現在は **version 1.22** が最新です。
 
-![thumbnail](https://github.com/Aodaruma/Aodaruma-AviUtl-Script/blob/main/Partition%26Flex/partiotionFlexThumbnail.png)
+![thumbnail](https://github.com/Aodaruma/Partition-Flex/blob/main/thumbnail.png)
 
 以下のスクリプトが備わっています。
 
